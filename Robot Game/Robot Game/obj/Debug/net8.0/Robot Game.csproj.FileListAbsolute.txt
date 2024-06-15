@@ -1,0 +1,14 @@
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\bin\Debug\net8.0\Robot Game.exe
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\bin\Debug\net8.0\Robot Game.deps.json
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\bin\Debug\net8.0\Robot Game.runtimeconfig.json
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\bin\Debug\net8.0\Robot Game.dll
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\bin\Debug\net8.0\Robot Game.pdb
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.AssemblyInfoInputs.cache
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.AssemblyInfo.cs
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.dll
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\refint\Robot Game.dll
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.pdb
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\Robot Game.genruntimeconfig.cache
+C:\Users\sebip\Probleme faculta\Robot Game\Robot Game\obj\Debug\net8.0\ref\Robot Game.dll
